@@ -4,4 +4,5 @@ im trying to make it as seemless as possible, but for now the goal is just to ge
 scripts in sequence:
 pk4tool.sh
 unify.sh
+clean.sh
 youre on your own for cleanup
